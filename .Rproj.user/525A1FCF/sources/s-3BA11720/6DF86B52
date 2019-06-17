@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560280265138.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6DF86B52",
+    "lastKnownWriteTime" : 1560803411,
+    "last_content_update" : 1560803411264,
+    "path" : "U:/project-notes/gRowth/localconf/R/localconf.R",
+    "project_path" : "R/localconf.R",
+    "properties" : {
+        "cursorPosition" : "47,54",
+        "scrollLine" : "28",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
